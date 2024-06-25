@@ -99,8 +99,8 @@ def generate_embeddings(texts, model="text-embedding"):
 
 
 # Set your Azure Blob Storage details
-CONNECTION_STRING = "DefaultEndpointsProtocol=https;AccountName=aisa0101;AccountKey=rISVuOQPHaSssHHv/dQsDSKBrywYnk6bNuXuutl4n+ILZNXx/CViS50NUn485kzsRxd5sfiVSsMi+AStga0t0g==;EndpointSuffix=core.windows.net"
-CONTAINER_NAME = "aibot"
+# CONNECTION_STRING = "DefaultEndpointsProtocol=https;AccountName=aisa0101;AccountKey=rISVuOQPHaSssHHv/dQsDSKBrywYnk6bNuXuutl4n+ILZNXx/CViS50NUn485kzsRxd5sfiVSsMi+AStga0t0g==;EndpointSuffix=core.windows.net"
+# CONTAINER_NAME = "aibot"
 # LOCAL_FOLDER_PATH = "folder1"  # Set your local folder path here
 
 
